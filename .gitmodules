@@ -1,0 +1,3 @@
+[submodule "JS-Script"]
+	path = JS-Script
+	url = https://github.com/AlexFromKiyv/JS-Script.git
